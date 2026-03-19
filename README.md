@@ -1,5 +1,5 @@
 <h1 align="center">
- React Native True Sight
+ React Native True Sight v2.0.5
 </h1>
 <p align="center">
   <img src="./assets/screen-ios.png" alt="" width=300>
